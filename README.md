@@ -96,6 +96,6 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - PANDORA: A Panoramic Detection Dataset for Object with Orientation [[ECCV 2022]]
 -
 ## Related Application
-### MetaVerse
+### Metaverse
 ### Augmented Reality
 ## Forum
