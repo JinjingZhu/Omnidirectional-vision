@@ -57,8 +57,10 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation [[AAAI 2022]](https://www.aaai.org/AAAI22Papers/AAAI-2064.ZhuangC.pdf)
 - Improving 360 Monocular Depth Estimation via Non-Local Dense Prediction Transformer and Joint Supervised and Self-Supervised Learning [[AAAI 2022]](https://www.aaai.org/AAAI22Papers/AAAI-7522.YunI.pdf)
 - SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Pintore_SliceNet_Deep_Dense_Depth_Estimation_From_a_Single_Indoor_Panorama_CVPR_2021_paper.pdf)
+- Geometric Structure Based and Regularized Depth Estimation From 360 Indoor Imagery [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Geometric_Structure_Based_and_Regularized_Depth_Estimation_From_360_Indoor_CVPR_2020_paper.pdf)
+- BiFuse: Monocular 360 Depth Estimation via Bi-Projection Fusion [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf)
 
-
+ 
 ### Image Generation
 - Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation [[ECCV 2022]](https://arxiv.org/abs/2209.05968)
 - 
