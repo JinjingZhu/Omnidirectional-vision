@@ -1,4 +1,4 @@
-# Omnidirectional/360 degree/Panoramic Vision
+# Omnidirectional/360 Degree/Panoramic Vision
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
