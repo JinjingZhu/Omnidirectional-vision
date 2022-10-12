@@ -20,18 +20,17 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 
 ## Survey
-**Arxiv**
 
 ***2022***
 - Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[24 May 2022]](https://arxiv.org/abs/2205.10468)
 
-**Journal**
-
-**Conference**
 ## Theory
 ## Image-Based Computer Vision
 ### Semantic Segmentation
 ### Depth Estimation
+
+***2022***
+
 ## Video-Based Computer Vision
 ## Image-Based Vision with Deep Learning
 ## Video-Based Vision with Deep Learning
