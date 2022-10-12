@@ -1,8 +1,8 @@
 ****
 ## 目录
 * [Survey]
-* [Image-Based Computer Vision]
-* [Video-Based Computer Vision]
+* [Image-Based Computer Vision]（#ImageBasedComputerVision）
+* [Video-Based Computer Vision]（# VideoBasedCompuerVision)
     * 普通文本
     * 单行文本
     * 多行文本
