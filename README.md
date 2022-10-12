@@ -36,6 +36,8 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Saliency Detection](#Saliency-Detection)
   - [Audio-Visual Question Answering](#Audio-Visual-Question-Answering)
   - [Video-Synthesis](#Video-Synthesis)
+  - [Video Summarization](Video-Summarization)
+  - [Video Compression](#Video-Compression)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
 - [Code](#Code)
@@ -156,6 +158,11 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Video Synthesis
 - Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf)
+
+### Video Summarization
+
+### Video Compression
+
 
 ## Image-Based Vision with Deep Learning
 
