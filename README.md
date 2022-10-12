@@ -32,6 +32,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - [Code](#Code)
 - [Dataset](#Dataset)
 - [Related Application](#Related-Application)
+- [Related Scholar](#Related-Scholar)
 - [Forum](#Forum)
 
 
@@ -145,4 +146,6 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Related Application
 ### Metaverse
 ### Augmented Reality
+## Related Scholar
+-[[Addison Lin Wang]](https://scholar.google.com/citations?hl=zh-CN&user=SReb2csAAAAJ)
 ## Forum
