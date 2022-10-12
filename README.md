@@ -38,6 +38,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Video-Synthesis](#Video-Synthesis)
   - [Video Summarization](Video-Summarization)
   - [Video Compression](#Video-Compression)
+  - [Audio-Visual Scene Understanding](#Audio-Visual-Scene-Understanding)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
 - [Code](#Code)
