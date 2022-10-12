@@ -4,7 +4,7 @@
 * [Theory](#Theory)
 * [Image-based](#Image-Based)
 * [Video-Based](#Video-Based)
-* [Deep Learning](Deep Learning)
+* [Deep Learning](#Deep Learning)
 * [Code](#Code)
 * [Dataset](#Dataset)
 
