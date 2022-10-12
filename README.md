@@ -1,6 +1,8 @@
 # Omnidirectional/360 degree/Panoramic Vision
 
-# Contents
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+
+This repo is a collection of AWESOME things about omnidirectional vision, including papers, code, dataset, etc. Feel free to star and fork.# Contents
 
 - [Survey](#Survey)
 - [Theory](#Theory)
