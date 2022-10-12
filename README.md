@@ -2,7 +2,7 @@
 ## Catalog
 * [Survey](#Survey)
 * [Theory](#Theory)
-* [Image](#Image)
+* [Image](#Image-Based Computer Vision)
 * [Video-Based Computer Vision](#Video-Based Computer Vision)
 * [Image-Based Vision with Deep Learning](#Image-Based Vision with Deep Learning)
 * [Video-Based Vision with Deep Learning](#Video-Based Vision with Deep Learning)
