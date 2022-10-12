@@ -17,6 +17,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Image Synthesis](#Image-Synthesis)
   - [Optical Flow Estimation](#Optical-Flow-Estimation)
   - [Pose-Estimation](#Pose-Estimation)
+  - [Reflection Removal](#Reflection removal)
+  - [Lighting-estimation](#Lighting-Estimation)
+  - [Visual Localization](#Visual-Localization)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
@@ -37,23 +40,40 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ### Depth Estimation
 
 - PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation [[ECCV 2022]](https://arxiv.org/abs/2203.09283)
+- MODE: Multi-view Omnidirectional Depth Estimation with 360-degree Cameras [[ECCV 2022]]
+- 
 ### Image Generation
 - Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation [[ECCV 2022]](https://arxiv.org/abs/2209.05968)
 - 
 ### Depth Completion
 
-- Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion## Video-Based Computer Vision [[ECCV 2022]](https://arxiv.org/abs/2203.09855)
+- Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion [[ECCV 2022]](https://arxiv.org/abs/2203.09855)
+
+
 ### Room Layout Estimation
 - 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform [[ECCV 2022]](https://arxiv.org/abs/2207.09291)
 
 ### Image Synthesis
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning [[ECCV 2022]](https://arxiv.org/abs/2112.06179)
+
+
 ### Optical Flow Estimation
 - Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion [[ECCV 2022]](https://arxiv.org/abs/2208.00776)
 - Learning Omnidirectional Flow in 360-degree Video via Siamese Representation [[ECCV 2022]](https://arxiv.org/abs/2208.03620)
 
 ### Pose Estimation
 -CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]]
+
+### Reflection removal
+-Zero-Shot Learning for Reflection Removal of Single 360-Degree Image [[ECCV 2022]]
+
+### Lighting Estimation
+-StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [[ECCV 2022]](https://arxiv.org/abs/2207.14811)
+
+### Visual Localization
+- CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]] (https://arxiv.org/abs/2207.05317)
+
+
 ## Video-Based Computer Vision
 ### Saliency Detection
 - Panoramic Vision Transformer for Saliency Detection in 360 Videos [[ECCV 2022]](https://arxiv.org/abs/2209.08956)
