@@ -1,6 +1,7 @@
 # Omnidirectional/360 Degree/Panoramic Vision
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[![VLIS Lab]
 
 This repo is a collection of AWESOME things about omnidirectional vision, including paper, code, dataset, etc. Feel free to star and fork.
 
