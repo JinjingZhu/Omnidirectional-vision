@@ -74,13 +74,13 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - Learning Omnidirectional Flow in 360-degree Video via Siamese Representation [[ECCV 2022]](https://arxiv.org/abs/2208.03620)
 
 ### Pose Estimation
--CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]]
+- CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]]
 
 ### Reflection removal
--Zero-Shot Learning for Reflection Removal of Single 360-Degree Image [[ECCV 2022]]
+- Zero-Shot Learning for Reflection Removal of Single 360-Degree Image [[ECCV 2022]]
 
 ### Lighting Estimation
--StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [[ECCV 2022]](https://arxiv.org/abs/2207.14811)
+- StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [[ECCV 2022]](https://arxiv.org/abs/2207.14811)
 
 ### Visual Localization
 - CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]](https://arxiv.org/abs/2207.05317)
@@ -100,7 +100,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 
 ### Gaze Following
--Looking here or there? Gaze Following in 360-Degree Images [[ICCV 2021]]()
+- Looking here or there? Gaze Following in 360-Degree Images [[ICCV 2021]]()
 
 
 ## Video-Based Computer Vision
