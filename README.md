@@ -96,7 +96,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Uniform_Subdivision_of_Omnidirectional_Camera_Space_for_Efficient_Spherical_Stereo_CVPR_2022_paper.pdf)
 
 
-###Inverse Rendering
+### Inverse Rendering
 - PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 
 ### Gaze Following
