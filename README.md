@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-Welcome to [VLIS Lab](https://addisonwang2013.github.io/vlislab/)
+Welcome to [VLIS LAB](https://addisonwang2013.github.io/vlislab/)
 
 This repo is a collection of AWESOME things about omnidirectional vision, including paper, code, dataset, etc. Feel free to star and fork.
 
