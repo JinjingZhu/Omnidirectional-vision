@@ -174,6 +174,10 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 
 ## Image-Based Vision with Deep Learning
+### Domain Adaptation
+### Knowledge Distillation
+### Zero-Shot Learning
+### Self-Supervised Learning
 
 
 ## Video-Based Vision with Deep Learning
