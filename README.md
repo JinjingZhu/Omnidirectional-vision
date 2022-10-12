@@ -54,7 +54,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Video-Based Vision with Deep Learning
 ## Code
 ## Dataset
+### Semantic Segmentation
 - Waymo Open Dataset: Panoramic Video Panoptic Segmentation [[ECCV 2022]](https://arxiv.org/abs/2206.07704)
+### Object Detection
 - PANDORA: A Panoramic Detection Dataset for Object with Orientation [[ECCV 2022]]
 -
 ## Related Application
