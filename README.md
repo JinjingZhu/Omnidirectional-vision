@@ -65,7 +65,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Image-Based Computer Vision
 ### Semantic Segmentation
 
-- Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)
+- Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)[[Pytorch]](https://github.com/jamycheung/Trans4PASS)
 - Capturing Omni-Range Context for Omnidirectional Segmentation [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf)
 
 ### Depth Estimation
