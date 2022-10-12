@@ -33,6 +33,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Quality Assessment](#Quality-Assessment)
   - [Planar Reconstruction](#Planar-Reconstruction)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
+  - [Saliency Detection](#Saliency-Detection)
+  - [Audio-Visual Question Answering](#Audio-Visual-Question-Answering)
+  - [Video-Synthesis](#Video-Synthesis)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
 - [Code](#Code)
@@ -151,7 +154,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ### Audio-Visual Question Answering
 - Pano-AVQA: Grounded Audio-Visual Question Answering on 360◦ Videos [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)
 
-### Video synthesis
+### Video Synthesis
 - Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf)
 
 ## Image-Based Vision with Deep Learning
