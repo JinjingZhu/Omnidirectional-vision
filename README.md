@@ -22,6 +22,10 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Reflection Removal](#Reflection-Removal)
   - [Lighting Estimation](#Lighting-Estimation)
   - [Visual Localization](#Visual-Localization)
+  - [Image Outpainting](#Image-Outpainting)
+  - [Super Resolution](#Super-Resolution)
+  - [Spherical Stereo Matching](#Spherical-Stereo-Matching)
+  - [Inverse Rendering](#Inverse-Rendering)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
@@ -39,10 +43,15 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Theory
 ## Image-Based Computer Vision
 ### Semantic Segmentation
+
+-Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)
+
 ### Depth Estimation
 
 - PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation [[ECCV 2022]](https://arxiv.org/abs/2203.09283)
 - MODE: Multi-view Omnidirectional Depth Estimation with 360-degree Cameras [[ECCV 2022]]
+- 360MonoDepth: High-Resolution 360deg Monocular Depth Estimation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf)
+- OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf)
 - 
 ### Image Generation
 - Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation [[ECCV 2022]](https://arxiv.org/abs/2209.05968)
@@ -54,6 +63,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Room Layout Estimation
 - 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform [[ECCV 2022]](https://arxiv.org/abs/2207.09291)
+- LGT-Net: Indoor Panoramic Room Layout Estimation With Geometry-Aware Transformer Network [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_LGT-Net_Indoor_Panoramic_Room_Layout_Estimation_With_Geometry-Aware_Transformer_Network_CVPR_2022_paper.pdf)
 
 ### Image Synthesis
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning [[ECCV 2022]](https://arxiv.org/abs/2112.06179)
@@ -75,6 +85,19 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ### Visual Localization
 - CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]](https://arxiv.org/abs/2207.05317)
 
+### Image Outpainting
+- Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Akimoto_Diverse_Plausible_360-Degree_Image_Outpainting_for_Efficient_3DCG_Background_Creation_CVPR_2022_paper.pdf)
+- 
+
+### Super Resolution
+- SphereSR: 360deg Image Super-Resolution With Arbitrary Projection via Continuous Spherical Image Representation[[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yoon_SphereSR_360deg_Image_Super-Resolution_With_Arbitrary_Projection_via_Continuous_Spherical_CVPR_2022_paper.pdf)
+
+### Spherical Stereo Matching
+- Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Uniform_Subdivision_of_Omnidirectional_Camera_Space_for_Efficient_Spherical_Stereo_CVPR_2022_paper.pdf)
+
+
+###Inverse Rendering
+- PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 
 ## Video-Based Computer Vision
 ### Saliency Detection
