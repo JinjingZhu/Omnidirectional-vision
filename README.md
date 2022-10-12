@@ -19,7 +19,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Image Synthesis](#Image-Synthesis)
   - [Optical Flow Estimation](#Optical-Flow-Estimation)
   - [Pose-Estimation](#Pose-Estimation)
-  - [Reflection Removal](#Reflection removal)
+  - [Reflection Removal](#Reflection-Removal)
   - [Lighting-estimation](#Lighting-Estimation)
   - [Visual Localization](#Visual-Localization)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
@@ -73,7 +73,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 -StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [[ECCV 2022]](https://arxiv.org/abs/2207.14811)
 
 ### Visual Localization
-- CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]] (https://arxiv.org/abs/2207.05317)
+- CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]](https://arxiv.org/abs/2207.05317)
 
 
 ## Video-Based Computer Vision
