@@ -44,6 +44,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - [Code](#Code)
 - [Dataset](#Dataset)
 - [Related Application](#Related-Application)
+  -[Metaverse](#Metaverse)
+  -[Augmented Reality](#Augmented-Reality)
+  -[Extended Reality](#Extended-Reality)
 - [Related Scholar](#Related-Scholar)
 - [Forum](#Forum)
 
@@ -193,6 +196,8 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Related Application
 ### Metaverse
 ### Augmented Reality
+### Virtual Reality
+### Extended Reality
 ## Related Scholar
 - [Addison Lin Wang](https://addisonwang2013.github.io/vlislab/linwang.html) is an Assistant Professor in the Artificial Intelligence (AI) Thrust of Information Hub and an Affiliate Assistant Professor in the Department of Computer Science and Engineering, the Hong Kong University of Science and Technology (HKUST). He is leadning Visual Learning and Intelligent Systems (VLIS) LAB @ HKUST, GZ Campus.
 ## Forum
