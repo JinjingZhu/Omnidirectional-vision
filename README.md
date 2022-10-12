@@ -73,7 +73,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation [[ECCV 2022]](https://arxiv.org/abs/2203.09283)[[Pytorch]](https://github.com/zhijieshen-bjtu/PanoFormer)
 - MODE: Multi-view Omnidirectional Depth Estimation with 360-degree Cameras [[ECCV 2022]]
 - 360MonoDepth: High-Resolution 360deg Monocular Depth Estimation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf)
-- OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf)
+- OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf) [[Pytorch]](https://github.com/yuyanli0831/OmniFusion)
 - ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation [[AAAI 2022]](https://www.aaai.org/AAAI22Papers/AAAI-2064.ZhuangC.pdf)
 - Improving 360 Monocular Depth Estimation via Non-Local Dense Prediction Transformer and Joint Supervised and Self-Supervised Learning [[AAAI 2022]](https://www.aaai.org/AAAI22Papers/AAAI-7522.YunI.pdf)
 - SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Pintore_SliceNet_Deep_Dense_Depth_Estimation_From_a_Single_Indoor_Panorama_CVPR_2021_paper.pdf)
