@@ -99,10 +99,15 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ###Inverse Rendering
 - PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 
+### Gaze Following
+-Looking here or there? Gaze Following in 360-Degree Images [[ICCV 2021]]()
+
+
 ## Video-Based Computer Vision
 ### Saliency Detection
 - Panoramic Vision Transformer for Saliency Detection in 360 Videos [[ECCV 2022]](https://arxiv.org/abs/2209.08956)
-
+### Audio-Visual Question Answering
+- Pano-AVQA: Grounded Audio-Visual Question Answering on 360◦ Videos [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)
 
 ## Image-Based Vision with Deep Learning
 
@@ -117,7 +122,10 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Object Detection
 - PANDORA: A Panoramic Detection Dataset for Object with Orientation [[ECCV 2022]]
--
+
+### Audio-Visual Question Answering
+- Pano-AVQA: Grounded Audio-Visual Question Answering on 360◦ Videos [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)
+
 ## Related Application
 ### Metaverse
 ### Augmented Reality
