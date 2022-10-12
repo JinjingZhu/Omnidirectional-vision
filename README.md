@@ -147,5 +147,5 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ### Metaverse
 ### Augmented Reality
 ## Related Scholar
--[[Addison Lin Wang]](https://scholar.google.com/citations?hl=zh-CN&user=SReb2csAAAAJ)
+-[Addison Lin Wang](https://scholar.google.com/citations?hl=zh-CN&user=SReb2csAAAAJ)
 ## Forum
