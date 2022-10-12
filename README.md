@@ -1,6 +1,6 @@
 ****
 ## 目录
-* [Survey](#横线1)
+* [Survey](#Survey)
 * [Theory](#横线2)
 * [Image-Based Computer Vision](#标题1)
 * [Video-Based Computer Vision](#标题2)
@@ -17,5 +17,5 @@
     * 粗体
     * 删除线
 
-标题1
+Survey
 ------
