@@ -21,6 +21,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ## Survey
 **Arxiv**
+
 ***2022***
 - Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[24 May 2022]](https://arxiv.org/abs/2205.10468)
 
