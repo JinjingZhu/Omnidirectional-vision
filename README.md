@@ -11,7 +11,12 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - [Image-Based Computer Vision](#Image-Based-Computer-Vision)
   - [Semantic Segmentation](#Semantic-Segmentation)
   - [Depth Estimation](#Depth-Estimation)
+  - [Image Generation](#Image-Generation)
   - [Depth Completion](#Depth-Completion)
+  - [Room Layout Estimation](#Room-Layout-Estimation)
+  - [Image Synthesis](#Image-Synthesis)
+  - [Optical Flow Estimation](#Optical-Flow-Estimation)
+  - [Pose-Estimation](#Pose-Estimation)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
 - [Image-Based Vision with Deep Learning](#Image-Based-Vision-with-Deep-Learning)
 - [Video-Based Vision with Deep Learning](#Video-Based-Vision-with-Deep-Learning)
@@ -38,7 +43,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 - Multi-Modal Masked Pre-Training for Monocular Panoramic Depth Completion## Video-Based Computer Vision [[ECCV 2022]](https://arxiv.org/abs/2203.09855)
 ### Room Layout Estimation
-- 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform## Image-Based Vision with Deep Learning [[ECCV 2022]](https://arxiv.org/abs/2207.09291)
+- 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform [[ECCV 2022]](https://arxiv.org/abs/2207.09291)
 
 ### Image Synthesis
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning [[ECCV 2022]](https://arxiv.org/abs/2112.06179)
@@ -50,12 +55,19 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Video-Based Computer Vision
 ### Saliency Detection
 - Panoramic Vision Transformer for Saliency Detection in 360 Videos [[ECCV 2022]](https://arxiv.org/abs/2209.08956)
+
+
 ## Image-Based Vision with Deep Learning
+
+
 ## Video-Based Vision with Deep Learning
+
+
 ## Code
 ## Dataset
 ### Semantic Segmentation
 - Waymo Open Dataset: Panoramic Video Panoptic Segmentation [[ECCV 2022]](https://arxiv.org/abs/2206.07704)
+
 ### Object Detection
 - PANDORA: A Panoramic Detection Dataset for Object with Orientation [[ECCV 2022]]
 -
