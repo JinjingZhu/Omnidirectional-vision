@@ -23,6 +23,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - [Code](#Code)
 - [Dataset](#Dataset)
 - [Related Application](#Related-Application)
+- [Forum](#Forum)
 
 
 ## Survey
@@ -75,3 +76,4 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ## Related Application
 ### MetaVerse
 ### Augmented Reality
+## Forum
