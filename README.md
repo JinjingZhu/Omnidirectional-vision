@@ -70,7 +70,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Depth Estimation
 
-- PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation [[ECCV 2022]](https://arxiv.org/abs/2203.09283)
+- PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation [[ECCV 2022]](https://arxiv.org/abs/2203.09283)[[Pytorch]](https://github.com/zhijieshen-bjtu/PanoFormer)
 - MODE: Multi-view Omnidirectional Depth Estimation with 360-degree Cameras [[ECCV 2022]]
 - 360MonoDepth: High-Resolution 360deg Monocular Depth Estimation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf)
 - OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf)
