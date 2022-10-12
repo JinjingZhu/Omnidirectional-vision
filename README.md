@@ -65,6 +65,11 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - 3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform [[ECCV 2022]](https://arxiv.org/abs/2207.09291)
 - LGT-Net: Indoor Panoramic Room Layout Estimation With Geometry-Aware Transformer Network [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_LGT-Net_Indoor_Panoramic_Room_Layout_Estimation_With_Geometry-Aware_Transformer_Network_CVPR_2022_paper.pdf)
 
+### Scene Understanding
+- DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_DeepPanoContext_Panoramic_3D_Scene_Understanding_With_Holistic_Scene_Context_Graph_ICCV_2021_paper.pdf)
+- 
+
+
 ### Image Synthesis
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning [[ECCV 2022]](https://arxiv.org/abs/2112.06179)
 
@@ -84,6 +89,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Visual Localization
 - CPO: Change Robust Panorama to Point Cloud Localization [[ECCV 2022]](https://arxiv.org/abs/2207.05317)
+- PICCOLO: Point Cloud-Centric Omnidirectional Localization[[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_PICCOLO_Point_Cloud-Centric_Omnidirectional_Localization_ICCV_2021_paper.pdf)
 
 ### Image Outpainting
 - Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Akimoto_Diverse_Plausible_360-Degree_Image_Outpainting_for_Efficient_3DCG_Background_Creation_CVPR_2022_paper.pdf)
@@ -100,7 +106,14 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 
 ### Gaze Following
-- Looking here or there? Gaze Following in 360-Degree Images [[ICCV 2021]]()
+- Looking here or there? Gaze Following in 360-Degree Images [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf)
+
+### Image Stitching
+- Minimal Solutions for Panoramic Stitching Given Gravity Prior [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Minimal_Solutions_for_Panoramic_Stitching_Given_Gravity_Prior_ICCV_2021_paper.pdf)
+
+### Structure from Motion
+- Extreme Structure from Motion for Indoor Panoramas without Visual Overlaps [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shabani_Extreme_Structure_From_Motion_for_Indoor_Panoramas_Without_Visual_Overlaps_ICCV_2021_paper.pdf)
+
 
 
 ## Video-Based Computer Vision
@@ -108,6 +121,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - Panoramic Vision Transformer for Saliency Detection in 360 Videos [[ECCV 2022]](https://arxiv.org/abs/2209.08956)
 ### Audio-Visual Question Answering
 - Pano-AVQA: Grounded Audio-Visual Question Answering on 360◦ Videos [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)
+
+### Video synthesis
+- Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf)
 
 ## Image-Based Vision with Deep Learning
 
