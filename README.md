@@ -49,7 +49,8 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning [[ECCV 2022]](https://arxiv.org/abs/2112.06179)
 ### Optical Flow Estimation
 - Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion [[ECCV 2022]](https://arxiv.org/abs/2208.00776)
-- 
+- Learning Omnidirectional Flow in 360-degree Video via Siamese Representation [[ECCV 2022]](https://arxiv.org/abs/2208.03620)
+
 ### Pose Estimation
 -CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]]
 ## Video-Based Computer Vision
