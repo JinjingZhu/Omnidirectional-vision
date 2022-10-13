@@ -68,7 +68,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 - Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation [[CVPR 2022]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)[[Pytorch]](https://github.com/jamycheung/Trans4PASS)
 - Capturing Omni-Range Context for Omnidirectional Segmentation [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf)
-- Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild [[TIP 2021]](https://yangkailun.com/publications/tip2021_kailun.pdf) [[Pytorch]]( )
+- Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild [[TIP 2021]](https://yangkailun.com/publications/tip2021_kailun.pdf)
 - Orientation-Aware Semantic Segmentation on Icosahedron Spheres [[ICCV 2019]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Orientation-Aware_Semantic_Segmentation_on_Icosahedron_Spheres_ICCV_2019_paper.pdf) [[Unoffical Pytorch]](https://github.com/matsuren/HexRUNet_pytorch)
 
 ### Depth Estimation
