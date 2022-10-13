@@ -164,6 +164,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ### Object Detection
 - Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking [[TVCG 2021]](http://probb268dca.pic5.ysjianzhan.cn/upload/TVCG20.pdf)
+- SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images [[ECCV 2018]] (https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)
 
 
 ## Video-Based Computer Vision
