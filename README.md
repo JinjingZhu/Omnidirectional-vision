@@ -161,6 +161,9 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 ### Planar Reconstruction
 - Indoor Panorama Planar 3D Reconstruction via Divide and Conquer [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Indoor_Panorama_Planar_3D_Reconstruction_via_Divide_and_Conquer_CVPR_2021_paper.pdf)
 
+### Object Detection
+- Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking [[TVCG 2021]](http://probb268dca.pic5.ysjianzhan.cn/upload/TVCG20.pdf)
+
 
 ## Video-Based Computer Vision
 ### Saliency Detection
