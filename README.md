@@ -32,6 +32,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
   - [Structure from Motion](#Structure-from-Motion)
   - [Quality Assessment](#Quality-Assessment)
   - [Planar Reconstruction](#Planar-Reconstruction)
+  - [Object Detection](#Object-Detection)
 - [Video-Based Computer Vision](#Video-Based-Computer-Vision)
   - [Saliency Detection](#Saliency-Detection)
   - [Audio-Visual Question Answering](#Audio-Visual-Question-Answering)
