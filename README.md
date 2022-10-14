@@ -61,7 +61,14 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 
 ***2022***
 - Deep Learning for Omnidirectional Vision: A Survey and New Perspectives [[24 May 2022]](https://arxiv.org/abs/2205.10468)
+- 3D Scene Geometry Estimation from 360° Imagery: A Survey [[2020]](https://dl.acm.org/doi/pdf/10.1145/3519021)
 
+***2020***
+- A Survey on Adaptive 360◦ Video Streaming: Solutions, Challenges and Opportunities [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9133103)
+
+***2019***
+- State-of-the-art in 360° Video/Image Processing: Perception, Assessment and Compression [[28 Oct 2019]] (https://arxiv.org/abs/1905.00161)
+- Annotated 360-Degree Image and Video Databases: A Comprehensive Survey [[2019]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008715)
 ## Theory
 - Spherical CNNs on Unstructured Grids [[ICLR 2019]](https://openreview.net/pdf?id=Bkl-43C9FQ)[[Pytorch]](https://github.com/maxjiang93/ugscnn)
 ## Image-Based Computer Vision
