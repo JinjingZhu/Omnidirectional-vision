@@ -67,8 +67,8 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - A Survey on Adaptive 360◦ Video Streaming: Solutions, Challenges and Opportunities [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9133103)
 
 ***2019***
-- State-of-the-art in 360° Video/Image Processing: Perception, Assessment and Compression [[28 Oct 2019]] (https://arxiv.org/abs/1905.00161)
-- Annotated 360-Degree Image and Video Databases: A Comprehensive Survey [[2019]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008715)
+- State-of-the-art in 360° Video/Image Processing: Perception, Assessment and Compression [[28 Oct 2019]](https://arxiv.org/abs/1905.00161)
+- Annotated 360-Degree Image and Video Databases: A Comprehensive Survey [[2019]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9008715)
 - 
 ## Theory
 - Spherical CNNs on Unstructured Grids [[ICLR 2019]](https://openreview.net/pdf?id=Bkl-43C9FQ)[[Pytorch]](https://github.com/maxjiang93/ugscnn)
