@@ -125,7 +125,7 @@ This repo is a collection of AWESOME things about omnidirectional vision, includ
 - Learning Omnidirectional Flow in 360-degree Video via Siamese Representation [[ECCV 2022]](https://arxiv.org/abs/2208.03620)
 
 ### Pose Estimation
-- CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]]
+- CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)
 
 ### Reflection removal
 - Zero-Shot Learning for Reflection Removal of Single 360-Degree Image [[ECCV 2022]]
